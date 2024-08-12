@@ -1,0 +1,24 @@
+{
+  "name": "jg_modal",
+  "version": "1.0.0",
+  "description": "A utility script that makes it easy to create modals using the dialog html element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtgraham38/JGModal.git"
+  },
+  "keywords": [
+    "modal",
+    "html",
+    "dialog"
+  ],
+  "author": "Jacob Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtgraham38/JGModal/issues"
+  },
+  "homepage": "https://github.com/jtgraham38/JGModal#readme"
+}
